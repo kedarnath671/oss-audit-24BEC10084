@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Bithol Satapathy
-# Reg No: 24BAI10972
+# Author: Kedarnath Hotta
+# Reg No: 24bec10084
 
-NAME="Bithol Satapathy"
+NAME="Kedarnath Hotta"
 SOFTWARE="Python"
 
 KERNEL_VERSION=$(uname -r)
